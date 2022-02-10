@@ -4,4 +4,4 @@ and from there into Hack Assmbley code, which get translate into 16 bits command
 
 All of the above was implemented using Python 3.7, usage can be found on each README file.  
 
-All info can be found on nand2tetris.org, all right reserve to them.
+All info can be found on [Nand2Tetris' website](https://www.nand2tetris.org/), all right reserve to them.
